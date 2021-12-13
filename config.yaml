@@ -1,5 +1,5 @@
 baseURL: /
-title: Hugo Book
+title: Flora of the Great Lakes
 theme: hugo-book
 disablePathToLower: yes
 enableGitInfo: yes
@@ -17,11 +17,11 @@ languages:
     weight: 1
 menu:
   after:
-    - name: Github
-      url: https://github.com/alex-shpak/hugo-book
+    - name: Flora of the Great Lakes
+      url: http://floragreatlakes.info/html/flora.html
       weight: 10
-    - name: Hugo Themes
-      url: https://themes.gohugo.io/hugo-book/
+    - name: Mid Coast Native Plants (PDF)
+      url: https://www.midcoast.nsw.gov.au/files/assets/public/document-resources/environment-docs/trees-amp-plants/indigenous-plants-of-greater-taree-version-3.pdf
       weight: 20
 params:
   BookComments: yes
