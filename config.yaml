@@ -15,14 +15,6 @@ languages:
     contentDir: content
     languageName: English
     weight: 1
-  ru:
-    contentDir: content.ru
-    languageName: Russian
-    weight: 2
-  zh:
-    contentDir: content.zh
-    languageName: Chinese
-    weight: 3
 menu:
   after:
     - name: Github
