@@ -1,5 +1,5 @@
 ---
 bookCollapseSection: true
-weight: 20
-title: ANA Grade
+weight: 6
+title: Eudicots
 ---
